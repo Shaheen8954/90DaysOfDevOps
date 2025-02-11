@@ -8,7 +8,11 @@ the osi (open system interconnection )is the set of rules that explain how diffr
 # TCP/IP (Transmission Control Protocol/Internet Protocol Model)
 
 It is a real-world model that is actually used in internet. 
+<<<<<<< HEAD
 It is simpler then OSI that is why we can browse websites,send emails, and use the internet .
+=======
+It is simpler then OSI and is the reason we can browse websites,send emails,and use the internet.
+>>>>>>> refs/remotes/origin/networking
 
 # KEY DIFFRENCES;
 
@@ -57,4 +61,12 @@ TCP/IP is faster and more practical then OSI.
 4. Transportation:     (Physical)
 
 In this analogy, each step ensure your letter reaches the right person, intact and readable, much like how data travels through the layers of these models to reach it's destination.
+
+
+#KEY DIFFRENCES:
+
+OSI is a concept and TCP/IP is used in real network.
+OSI has 7 layers; TCP/IP has 4 layers .
+TCP/IP is faster and more practical then OSI.
+
 
