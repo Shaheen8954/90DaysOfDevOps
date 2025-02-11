@@ -17,4 +17,5 @@ It is simpler then OSI and is the reason we can browse websites,send emails,and 
 OSI is a concept and TCP/IP is used in real network.
 OSI has 7 layers; TCP/IP has 4 layers .
 TCP/IP is faster and more practical then OSI.
+this is
 
