@@ -2,6 +2,6 @@
 ## fork, clone and initialize the repository and create a file.
 
 
-![screeenshot](git.png)
+![screenshot](git.png)
 
 
