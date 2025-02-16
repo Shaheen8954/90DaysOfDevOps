@@ -1,5 +1,5 @@
 # WEEK 4 CHALLANGE
-## fork, clone and initialize the repository and create a file also, configure remote URL with PAT and PUSH/PULL.
+## fork, clone and initialize the repository and create a file also, configure remote URL with PAT and PUSH/PULL and other branches.
 
 
 
@@ -16,7 +16,9 @@
 
   . initialize the repository - Creating a new git project on your local computer by git init.
 
-  . Create a file - create a file  to start.
+  . Create a file - create a file  to add initial content. 
+
+  . Stage - Staging a file means preparing it for a commit.When you make changes to a file, Git considers it modified, but it won't be included in the next commit until you stage it.
 
   . Remote URL - the online location of your project (on github ) 
 
@@ -26,3 +28,12 @@
 
   . PULL - downloading the latest update from your github to local.
 
+  . git log - The git log command shows a history of commits in your repository.
+
+  . Create a new branch - A branch in Git allows you to work on different features or fixes without affecting the main project.
+
+  . Switch - Switching branches helps keep your code organized, stable, and manageable.
+
+  . Modify - This makes your branch available on GitHub. 
+
+  . Merge - Merging branches in Git combines the changes from one branch into another. 
